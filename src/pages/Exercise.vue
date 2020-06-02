@@ -52,9 +52,9 @@
 					},
 					{
 						id: 4,
-						imageUrl: 'I deleted this pic because I dont want any copyright issues',
+						imageUrl: 'https://highheelgourmet.files.wordpress.com/2015/07/egg-noodles-with-wontons-and-red-thai-barbecue-pork-ba-mee-kiew-moo-dang-by-the-high-heel-gourmet-2-1.jpg',
 						name: 'Bami Noodles', 
-						description: 'My favorite food now. The best are in Talad Plu',
+						description: 'Some kind of thai noodles. I think they are made of eggs or rice',
 						deliciousness: '5/5'
 					}
 				]

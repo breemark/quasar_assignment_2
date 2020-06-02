@@ -52,7 +52,7 @@
 					},
 					{
 						id: 4,
-						imageUrl: 'https://highheelgourmet.files.wordpress.com/2015/07/egg-noodles-with-wontons-and-red-thai-barbecue-pork-ba-mee-kiew-moo-dang-by-the-high-heel-gourmet-2-1.jpg',
+						imageUrl: 'I deleted this pic because I dont want any copyright issues',
 						name: 'Bami Noodles', 
 						description: 'My favorite food now. The best are in Talad Plu',
 						deliciousness: '5/5'

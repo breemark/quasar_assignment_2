@@ -19,7 +19,7 @@
 
 <script>
 export default {
-    props: ['foodElement', 'index']
+    props: ['foodElement']
 }
 </script>
 
